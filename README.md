@@ -6,8 +6,9 @@
 
 Demos on Taobao platform
 
-<img src="media\taobao_1.gif" style="zoom: 33%;" />  <img src="media\taobao_2.gif" style="zoom:33%;" />
+![media\taobao_1.gif](media\taobao_1.gif)  ![media\taobao_2.gif](media\taobao_2.gif)
 
 Demos on JD platform
 
-<img src="media\JD_1.gif" style="zoom:33%;" />  <img src="media\JD_2.gif" style="zoom:33%;" />
+![media\JD_1.gif](media\JD_1.gif)  ![media\JD_2.gif](media\JD_2.gif)
+
