@@ -6,9 +6,9 @@
 
 Demos on Taobao platform
 
-![media\taobao_1.gif](media\taobao_1.gif)  ![media\taobao_2.gif](media\taobao_2.gif)
+<img src="media\taobao_1.gif" alt="media\taobao_1.gif"  />  <img src="media\taobao_2.gif" alt="media\taobao_2.gif"  />
 
 Demos on JD platform
 
-![media\JD_1.gif](media\JD_1.gif)  ![media\JD_2.gif](media\JD_2.gif)
+<img src="media\JD_1.gif" alt="media\JD_1.gif"  />  <img src="media\JD_2.gif" alt="media\JD_2.gif"  />
 
